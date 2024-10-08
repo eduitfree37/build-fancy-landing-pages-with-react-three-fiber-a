@@ -1,0 +1,5 @@
+# Build fancy landing pages with React and Threejs
+
+Learn how to enhance your websites with creative flourishes using minimal code and complexity with this course. As a front-end developer proficient in JavaScript, HTML, and CSS, you may have felt that the breathtaking websites featured on platforms such as Awwwards, FWA, and Godly were beyond your reach. Traditionally, web graphics have been considered intricate and accessible only to a select few experts. However, the introduction of Poimandres tooling has revolutionized this perception by empowering developers to simplify complex behavior and collaborate on shared projects. Now, with the aid of React building blocks, you can craft engaging experiences on the web just as easily as any other web development task. 
+
+[Detail](https://eduitfree.com/courses/build-fancy-landing-pages-with-react-three-fiber-and-threejs)
